@@ -1,1 +1,1 @@
-deploy to comtainer testing
+deployto container plugin
